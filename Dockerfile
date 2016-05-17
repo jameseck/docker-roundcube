@@ -1,4 +1,4 @@
-FROM docker-base
+FROM jameseckersall/docker-centos-base
 
 MAINTAINER James Eckersall <james.eckersall@gmail.com>
 
